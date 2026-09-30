@@ -1,0 +1,4 @@
+*.npy
+*.npz
+Kohort*.xlsx
+__pycache__/
